@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋, I'm Nandu!
 
-<!--
-**Nandu-Codes/Nandu-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 🎓 **BTech CSE Core** @ *Jerusalem College of Engineering,Chennai (1st Year)*  
+- 💻 **Eager Coding Enthusiast** | Passionate about **Software Development & Open Source**  
+- 🌱 Currently learning **Python** | Strong in **C & Java**  
+- 🤖 **Passionate about Artificial Intelligence & Machine Learning**  
+- 🔭 Exploring **GitHub Projects, Competitive Programming & Full-Stack Development**  
+- ⚡ **Tech Interests:** AI/ML, Web Development, Algorithms, and Deep Learning  
+- 🎯 **Goal:** Build and deploy real-world projects!  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10217D?style=flat&logo=scikit-learn&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌎 Connect with Me  
+- 🔗 [LinkedIn](#) (Add your link)  
+- 💬 [Twitter](#) (Add your link)  
+- 📫 Reach me via email: **nandinik030706@gmail.com**  
+
+### 📊 GitHub Stats  
+![Nandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nandu-Codes&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandu-Codes&layout=compact&theme=tokyonight)  
+
+### 🚀 Fun Fact  
+💡 "I don’t just write code; I craft solutions! Whether it's a bug or a feature, every challenge is just another puzzle waiting to be solved. 🚀"  
