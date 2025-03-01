@@ -17,8 +17,7 @@
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10217D?style=flat&logo=scikit-learn&logoColor=white)  
 
 ### 🌎 Connect with Me  
-- 🔗 [LinkedIn](#) (Add your link)  
-- 💬 [Twitter](#) (Add your link)  
+- 🔗 [LinkedIn](#) (linkedin.com/in/nandu-codes)   
 - 📫 Reach me via email: **nandinik030706@gmail.com**  
 
 ### 📊 GitHub Stats  
